@@ -1,5 +1,5 @@
 # Metodo-Burbuja
-Este programa fue creado en DEV C++ en el cual se utiliza el método burbuja
+Este programa fue creado en DEV C++ en el cual se utiliza el método burbuja.
 
 En esta parte del código se declaró el arreglo y variables que son de tipo entero.
 
@@ -21,7 +21,7 @@ En esta parte se imprime el arreglo de de mayor a menor utilizado el ciclo for
 
 ![p5](https://user-images.githubusercontent.com/72090852/97476321-e27f5200-1913-11eb-831a-9b1c7e155ffd.jpg)
 
-Resultados de la compilación del codigo.
+Resultados de la compilación del código.
 
 En esta parte de la compilación se pide que el usuario digite cuantas calificaciones desea agregar.
 
