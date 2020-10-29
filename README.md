@@ -1,12 +1,16 @@
 # Metodo-Burbuja
 
+
 Este programa fue creado en DEV C++ en el cual se utiliza el método burbuja
+
+Este programa fue creado en DEV C++ en el cual se utiliza el método burbuja.
+
 
 En esta parte del código se declaró el arreglo y variables que son de tipo entero.
 
 ![p1](https://user-images.githubusercontent.com/72090852/97475717-35a4d500-1913-11eb-868b-b4acdb1ffa07.jpg)
 
-En esta parte se utiliza el ciclo for para poder rellenar el arreglo que próximamente será ordenado.
+En esta parte se utiliza el ciclo repetitivo for para poder rellenar el arreglo que próximamente será ordenado.
 
 ![p2](https://user-images.githubusercontent.com/72090852/97475981-83214200-1913-11eb-8c23-5b1a822358b0.jpg)
 
@@ -22,7 +26,7 @@ En esta parte se imprime el arreglo de de mayor a menor utilizado el ciclo for
 
 ![p5](https://user-images.githubusercontent.com/72090852/97476321-e27f5200-1913-11eb-831a-9b1c7e155ffd.jpg)
 
-Resultados de la compilación del codigo.
+Resultados de la compilación del código.
 
 En esta parte de la compilación se pide que el usuario digite cuantas calificaciones desea agregar.
 
