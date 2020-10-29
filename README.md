@@ -1,6 +1,10 @@
 # Metodo-Burbuja
 
+
+Este programa fue creado en DEV C++ en el cual se utiliza el método burbuja
+
 Este programa fue creado en DEV C++ en el cual se utiliza el método burbuja.
+
 
 En esta parte del código se declaró el arreglo y variables que son de tipo entero.
 
